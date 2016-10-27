@@ -112,3 +112,7 @@
 .sf-arrows ul .sfHover > .sf-with-ul:after {
 	border-left-color: white;
 }
+
+#fh5co-menu-wrap {
+	float:left;
+}
