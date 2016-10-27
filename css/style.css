@@ -512,7 +512,7 @@ figure {
   position: relative;
   z-index: 2;
   display: block;
-  float: right;
+  float: left;
 }
 
 #fh5co-primary-menu > li > ul li.active > a {
